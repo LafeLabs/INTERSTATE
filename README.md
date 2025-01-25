@@ -5,6 +5,7 @@
  - [README EDITOR](readmeeditor.html)
  - [THE INTERSTATE HIGHWAY SYSTEM](https://en.wikipedia.org/wiki/Interstate_Highway_System)
  - [UP A LEVEL(../)](../)
+ - [TRASH MAGIC REPLICATOR LINK](https://raw.githubusercontent.com/LafeLabs/INTERSTATE/refs/heads/main/php/replicator.txt)
  - [qrcode.html](qrcode.html)
  - [WEB CODE EDITOR](webeditor.html)
 
